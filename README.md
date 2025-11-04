@@ -10,6 +10,7 @@ Explore each topic by clicking the links below. Each link takes you to the dedic
 
 - [Exception Handling](topics/exception-handling) – Handle runtime errors gracefully and write robust programs.
 - [Enums](topics/enums) – Use type-safe constants and advanced enumeration features.
+- [Generics](topics/generics) – Write type-safe classes, methods, and collections.
 
 ---
 
@@ -18,7 +19,8 @@ Explore each topic by clicking the links below. Each link takes you to the dedic
 README.md
 topics/
 ├── exception-handling/
-└── enums/
+├── enums/
+└── generics/
 ```
 
 - Each topic folder contains:
