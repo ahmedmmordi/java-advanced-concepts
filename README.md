@@ -19,8 +19,10 @@ Explore each topic by clicking the links below. Each link takes you to the dedic
 README.md
 topics/
 ├── exception-handling/
-├── enums/
-└── generics/
+├── ....../
+.
+.
+.
 ```
 
 - Each topic folder contains:
